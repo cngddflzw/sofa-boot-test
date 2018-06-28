@@ -1,0 +1,3 @@
+2018-06-28 14:23:50,089 INFO  main                             com.alipay.sofa.rpc.registry.local.LocalRegistryHelper - Load backup file from C:\Users\zimliu\localFileRegistry\localRegistry.reg
+2018-06-28 14:24:24,000 INFO  main                             com.alipay.sofa.rpc.registry.local.LocalRegistryHelper - Load backup file from C:\Users\zimliu\localFileRegistry\localRegistry.reg
+2018-06-28 14:24:24,114 INFO  main                             com.alipay.sofa.rpc.registry.local.LocalRegistryHelper - Load backup file from C:\Users\zimliu\localFileRegistry\localRegistry.reg

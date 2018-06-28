@@ -1,0 +1,4 @@
+2018-06-28 14:24:26,216 ERROR main                             - component readiness check failed. component name[RUNTIME-COMPONENT]; no retry; fail details:[{service:com.zim.test.sofa.sofaboottest.bean.PersonService=Status: RESOLVED, reference:com.zim.test.sofa.sofaboottest.bean.PersonService:#1361743070=passed, reference:com.zim.test.sofa.sofaboottest.bean.PersonService:#-1453080899=passed}]
+2018-06-28 14:24:26,221 ERROR main                             - SOFABoot component readiness check result: failed.
+2018-06-28 14:24:26,223 ERROR main                             - first phase of the readiness check result: fail
+2018-06-28 14:24:26,223 ERROR main                             - Readiness check result: fail

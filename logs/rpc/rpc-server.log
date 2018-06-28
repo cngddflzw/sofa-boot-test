@@ -1,0 +1,2 @@
+2018-06-28 14:23:50,638 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.server.ServerFactory - Destroy all server now!
+2018-06-28 14:24:26,332 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.server.ServerFactory - Destroy all server now!
